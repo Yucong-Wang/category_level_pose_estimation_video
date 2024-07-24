@@ -1,1 +1,2 @@
-https://github.com/Yucong-Wang/category_level_pose_estimation_video/blob/main/Category-Level_pose_estimation.mp4
+https://github.com/user-attachments/assets/bc1765cd-7485-4c22-bd73-876409b07dd8
+
